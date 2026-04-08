@@ -1,1 +1,1 @@
-It jams the wifi bruh.
+It jams the wifi bruh
