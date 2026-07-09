@@ -8,7 +8,7 @@ RF Jammer that seeks to disrupt 2.4 GHz to 2.525 GHz frequency range through the
 
 # Components
 
-*I sourced the Arduino Uno, Pushbuttons, and wires from an [ELEGOO UNO Project Super Starter Kit](https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_2?crid=2IKYH8PH2AW8R&dib=eyJ2IjoiMSJ9._L3JiWgIo_Asrnpq9JBCAt-H5sSOmasYf4-YL9vsTwHwmhOwxlIK3FEksEwnPLDpODR3qGHLmVqeB02MM53KDWbjwyGwrKszkDAGer-AW9hzlRkirQcqLIgW48FJ5n-iAHlEFZ64L-yOazrJzRZMx-y7UbWXaTUo1kvLLE-UT3mY_jxm5WlmsOOufgkMiUmQ5gOApAde4-oOwXk2cYQXEYzyz6trohRA6dUUCCraRq5Wp979799c-6Hw3_9TJXJW8dCJxFR-JhH4nuvrFjQd6YGDg55WAQk0ABWdrs4-cvc.UZkdr9j6lsgIov7_Ym01QpXQJ7fuHZ9DfOX_vsTcoFo&dib_tag=se&keywords=elegoo+uno+project&qid=1783616409&s=electronics&sprefix=elegoo+uno+projec%2Celectronics%2C101&sr=1-2)*
+*I sourced the Arduino Uno, Pushbuttons, and wires from an [ELEGOO UNO R3 Project Super Starter Kit](https://www.amazon.com/EL-KIT-001-Project-Complete-Starter-Tutorial/dp/B01CZTLHGE/ref=as_li_ss_tl?keywords=elegoo+super+starter+kit&qid=1582663388&sr=8-3&linkCode=sl1&tag=sonofthesouth-20&linkId=242e768d54e634daf31fdd05288857bc&language=en_US)*
 
 + Arduino of any kind (I used an uno) <sub>(x1)</sub>
 
