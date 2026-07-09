@@ -4,7 +4,9 @@
 
 RF Jammer that seeks to disrupt 2.4 GHz to 2.525 GHz frequency range through the constant maximum-throughput of two nRF24L01+PA+LNA modules.
 
-# Video Showcase
+# Showcase
+
+> Final product image
 
 > OLED GUI + interaction between transmission and Spectrum Analyzer showcase
 
