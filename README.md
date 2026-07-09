@@ -8,7 +8,7 @@ RF Jammer that seeks to disrupt 2.4 GHz to 2.525 GHz frequency range through the
 
 # Components
 
-*I sourced the Arduino Uno, Pushbuttons, and wires from an [ELEGOO UNO R3 Project Super Starter Kit](https://www.amazon.com/EL-KIT-001-Project-Complete-Starter-Tutorial/dp/B01CZTLHGE/ref=as_li_ss_tl?keywords=elegoo+super+starter+kit&qid=1582663388&sr=8-3&linkCode=sl1&tag=sonofthesouth-20&linkId=242e768d54e634daf31fdd05288857bc&language=en_US); the nRF24 modules and I2C OLED were obtained from both Amazon and Aliexpress respectively*
+*I sourced the Arduino Uno, Pushbuttons, and wires from an [ELEGOO UNO R3 Project Super Starter Kit](https://www.amazon.com/EL-KIT-001-Project-Complete-Starter-Tutorial/dp/B01CZTLHGE/ref=as_li_ss_tl?keywords=elegoo+super+starter+kit&qid=1582663388&sr=8-3&linkCode=sl1&tag=sonofthesouth-20&linkId=242e768d54e634daf31fdd05288857bc&language=en_US); the nRF24 modules and I2C OLED were obtained from both Amazon and Aliexpress respectively.*
 
 + Arduino of any kind (I used an uno) <sub>(x1)</sub>
 
