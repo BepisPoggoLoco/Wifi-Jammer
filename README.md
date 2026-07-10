@@ -38,7 +38,7 @@ For the nRF24L01's, make sure **both** modules share the same connection to MOSI
 
 ![nRF24L01+PA+LNA](https://lastminuteengineers.com/wp-content/uploads/arduino/v2/Arduino-Wiring-Fritzing-Connections-with-nRF24L01-PA-LNA-External-Antenna-Wireless-Module.png)
 
-![nRF24L01+PA+LNA Pinout](https://lastminuteengineers.com/wp-content/uploads/arduino/v2/Arduino-Wiring-Fritzing-Connections-with-nRF24L01-PA-LNA-External-Antenna-Wireless-Module.png)
+![nRF24L01+PA+LNA Pinout](https://lastminuteengineers.com/wp-content/uploads/arduino/Pinout-nRF24L01-PA-LNA-External-Antenna-Wireless-Transceiver-Module.png)
 
 ![Pushbuttons](pushbuttons.png)
 
