@@ -34,7 +34,7 @@ I used the following diagrams to hookup the core components, using 3.3V/GND rail
 
 <u>***Important***</u>
 
-Make sure **both** nRF24's share the same connection to MOSI, IRQ, SCK and MISO. Alternatively, make sure each module's CSN and CE pins are connected to differing digital pins on your Arduino. To match with the software, one module should be designated pins 9 and 8<sub>CE, CSN</sub> and the other should be assigned 7 and 6<sub>CE, CSN</sub>
+Make sure **both** nRF24's share the same connection to MOSI, IRQ, SCK and MISO. Alternatively, make sure each module's CSN and CE pins are connected to differing digital pins on your Arduino. To match with the software, one module should be designated pins 9 and 8 <sub>(CE, CSN)</sub> and the other should be assigned 7 and 6 <sub>(CE, CSN)</sub>
 
 ![nRF24L01+PA+LNA](https://lastminuteengineers.com/wp-content/uploads/arduino/v2/Arduino-Wiring-Fritzing-Connections-with-nRF24L01-PA-LNA-External-Antenna-Wireless-Module.png)
 
