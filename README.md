@@ -32,7 +32,7 @@ RF Jammer that seeks to disrupt 2.4 GHz to 2.525 GHz frequency range; through th
 
 I used the following diagrams to hookup the core components, using 3.3V/GND rails in order to reduce the complexity of the circuit. Ultimately the arrangement of this device's wiring is up to your creativity.
 
-**<ins>Important</ins>**
+***<ins>Important</ins>***
 
 Make sure **both** nRF24's share the same connection to MOSI, IRQ, SCK and MISO. Alternatively, make sure each module's CSN and CE pins are connected to differing digital pins on your Arduino. In order to match with the software, you need to designate pins 9 and 8 <sub>(CE, CSN)</sub> and 7 and 6 <sub>(CE, CSN)</sub> to each module individually.
 
