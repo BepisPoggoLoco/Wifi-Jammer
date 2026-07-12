@@ -4,8 +4,8 @@
 
 RF Jammer that seeks to disrupt 2.4 GHz to 2.525 GHz frequency range; through the constant maximum-throughput of two nRF24L01+PA+LNA modules, the device rapidly transmits a continuous carrier to randomized frequencies on the 2.4-2.525 GHz ISM band.
 
-The device also has a "spectrum analysis" option that graphs incoming traffic along the targeted frequency band.
-> A true spectrum analysis graph measures the **exact** quantity of power across a frequency range, while the nRF24L01 + PA + LNA's we utilize are only capable of detecting if a specific band's traffic is above/below a -64 dBm threshold.
+The device also has a "spectrum analysis" option that graphs incoming traffic along the targeted 2.4-2.525 GHz frequency band.
+> A true spectrum analysis graph measures the **exact** quantity of power of various channels across a frequency range; since the nRF24L01 + PA + LNA's we utilize are only capable of detecting if a specific band's traffic is above/below a -64 dBm threshold, we are instead graphing multiple "high" or "low" bars that indicate "high" or "low" traffic amongst various bands.
 
 # Showcase
 
