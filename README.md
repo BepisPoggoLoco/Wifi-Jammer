@@ -16,7 +16,7 @@ The device also consists of a "spectrum analysis" option that graphs incoming tr
 
 > OLED GUI + interaction between transmission and Spectrum Analyzer showcase
 
-https://github.com/user-attachments/assets/ef856f6a-ae92-4846-9396-954d3cd7bd39
+https://github.com/user-attachments/assets/0a9d257b-448d-4dc3-9369-bd9f32339922
 
 > Sucessful disruptions of Logitech M310
 
