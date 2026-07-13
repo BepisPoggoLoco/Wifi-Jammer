@@ -12,9 +12,13 @@ The device also consists of a "spectrum analysis" option that graphs incoming tr
 
 > Final product image
 
+![Final Product](IMG_5939.png)
+
 > OLED GUI + interaction between transmission and Spectrum Analyzer showcase
 
 > Sucessful jamming of RF-dependent device
+
+https://github.com/user-attachments/assets/b276b8a5-0840-4075-8c58-a8bbcd2cec49
 
 # Components
 
