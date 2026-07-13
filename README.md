@@ -18,7 +18,7 @@ The device also consists of a "spectrum analysis" option that graphs incoming tr
 
 https://github.com/user-attachments/assets/0a9d257b-448d-4dc3-9369-bd9f32339922
 
-> Sucessful disruptions of Logitech M310
+> Sucessful disruption of Logitech M310
 
 https://github.com/user-attachments/assets/5c05ef5c-b117-4d78-8633-db9e30c1b583
 
