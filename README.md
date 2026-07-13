@@ -16,9 +16,9 @@ The device also consists of a "spectrum analysis" option that graphs incoming tr
 
 > OLED GUI + interaction between transmission and Spectrum Analyzer showcase
 
-> Sucessful jamming of RF-dependent device
+> Sucessful disruptions of Logitech M310
 
-https://github.com/user-attachments/assets/b276b8a5-0840-4075-8c58-a8bbcd2cec49
+https://github.com/user-attachments/assets/5c05ef5c-b117-4d78-8633-db9e30c1b583
 
 # Components
 
